@@ -1,0 +1,25 @@
+#home{
+    background: #ffc107;
+    color: white;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+    
+.bloco_saiba{
+    margin-top: 90px;
+}
+
+.bloco_juros{
+    margin-top: 220px;
+}
+
+footer p a{
+    margin: 5px 15px;
+}
+
+.sociais{
+    padding-left: 180px;
+}
